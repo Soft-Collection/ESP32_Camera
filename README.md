@@ -11,6 +11,7 @@ There are two modes:
 In order to enter the **Setup Mode** you need to push the **reset** button after first LED blink at the beginning.
 You have 3 seconds to accomplish this goal before second LED blink. If you are in **Setup Mode**, 
 you need to connect from your mobile phone to the camera directly using WiFi connection.
+HostName=esp32_cam, SSID=esp32_cam_ap, Password=12345678.
 When you are connected to the camera, enter it using web browser and enter the following data:
 * SSID
 * Password
